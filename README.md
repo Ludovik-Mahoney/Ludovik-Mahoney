@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Salut%2C+moi+c'est+%5BTon+pr%C3%A9nom%5D;Etudiant+en+g%C3%A9nie+logiciel;Passionne+d'IA+et+de+vision+par+ordinateur" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Salut%2C+moi+c'est+Ludovik+mahoney;Etudiant+en+g%C3%A9nie+logiciel;Passionne+d'IA+et+de+vision+par+ordinateur" alt="Typing SVG" />
 
 </div>
 
@@ -37,8 +37,8 @@ Etudiant en génie logiciel, je m'intéresse principalement aux agents IA, aux m
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ludovik-MahoneyE&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ludovik-Mahoney&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 
 </div>
 
@@ -48,7 +48,7 @@ Etudiant en génie logiciel, je m'intéresse principalement aux agents IA, aux m
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#TODO)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ludovik.mahoney@gmail.com)
 
 </div>
